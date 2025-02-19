@@ -8,6 +8,9 @@ The dataset consists of Walmart sales records stored in the following files:
 - **Walmart.csv** - Raw dataset
 - **Walmart_cleaned.csv** - Cleaned dataset after preprocessing
 
+**Dataset Source:**
+This dataset was obtained from Kaggle: [Walmart 10K Sales Dataset](https://www.kaggle.com/datasets/najir0123/walmart-10k-sales-datasets/data)
+
 ## Workflow
 1. **Data Import & Cleaning** (Python, Pandas)
    - Imported `Walmart.csv` in a Jupyter Notebook (`walmart.ipynb`).
@@ -31,10 +34,10 @@ The dataset consists of Walmart sales records stored in the following files:
 - Used **SQL queries** to extract insights like **top-performing products, revenue trends, and customer behavior**.
 - Provided **business recommendations** based on data analysis.
 
-## Tools Used
-- **Python (Pandas, NumPy, Matplotlib, Seaborn)** for data cleaning & visualization.
-- **PostgreSQL (pgAdmin 4)** for SQL-based data analysis.
-- **VS Code & Jupyter Notebook** for scripting and exploration.
 
-
-
+## Tools & Technologies Used
+- **Languages:** SQL, Python
+- **Databases:** PostgreSQL
+- **Libraries:** Pandas, Requests, Matplotlib
+- **Data Sources:** Walmart data from Kaggle, API
+- **Skills:** Data cleaning, date manipulation, API integration, SQL querying, data visualization
