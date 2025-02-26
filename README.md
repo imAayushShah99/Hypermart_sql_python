@@ -1,4 +1,4 @@
-# 🛂 Hypermart Data Analysis Project
+#  Hypermart Data Analysis Project
 
 ## 📌 Project Overview  
 This project focuses on **data cleaning, exploration, and SQL-based analysis** of Hypermart's sales data. The dataset was processed in **Python (VS Code, Jupyter Notebook) 🐖** and later transferred to **pgAdmin 🗃️** for SQL queries to derive business insights.  
